@@ -1,0 +1,24 @@
+{
+  "name": "examexemple",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000E\u0000x\u0000a\u0000m\u0000E\u0000x\u0000e\u0000m\u0000p\u0000l\u0000e\u0000\r\u0000 \u0000",
+  "browserslist": "> 0.25%, not dead",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel starter/src/index.html",
+    "build": "parcel build starter/src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucieBen05/ExamExemple.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucieBen05/ExamExemple/issues"
+  },
+  "homepage": "https://github.com/lucieBen05/ExamExemple#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
